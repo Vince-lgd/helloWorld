@@ -1,7 +1,11 @@
-<Doctype html>
+<!Doctype html>
 < html >
+<head>
 < meta charset="utf-8 />
 <title> Exo </title>
-
-<h1> 
-<h2>
+</head>
+<body>
+<h1> Titre  </h1>
+<h2> Sous - Titre </h2>
+</body>
+</html>
